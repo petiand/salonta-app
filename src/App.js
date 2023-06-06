@@ -1,12 +1,10 @@
-import logo from './logo.svg';
-
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={require("./csonka.jpg")} className="App-logo" alt="logo" />
+        <img src={require("./csonka.webp")} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
